@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-export default function SimpleSelect(props) {
+export default function SizingOptions(props) {
     const classes = useStyles();
 
     const [result, setResult] = useState('');
