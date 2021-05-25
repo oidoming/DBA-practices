@@ -1,0 +1,16 @@
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.exe
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.deps.json
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.runtimeconfig.json
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.runtimeconfig.dev.json
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.dll
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\ref\Backup-mysql.dll
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\bin\Debug\net5.0\Backup-mysql.pdb
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.csprojAssemblyReference.cache
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.AssemblyInfoInputs.cache
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.AssemblyInfo.cs
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.dll
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\ref\Backup-mysql.dll
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.pdb
+C:\Users\Oscar\dev\dba\practicas\Backup-mysql\Backup-mysql\obj\Debug\net5.0\Backup-mysql.genruntimeconfig.cache
